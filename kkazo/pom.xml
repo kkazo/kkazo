@@ -17,6 +17,7 @@
 		<module>kkazo-core</module>
 		<module>kkazo-common</module>
 		<module>kkazo-mongo-web</module>
+		<module>kkazo-rest</module>
 	</modules>
 
 	<dependencyManagement>
